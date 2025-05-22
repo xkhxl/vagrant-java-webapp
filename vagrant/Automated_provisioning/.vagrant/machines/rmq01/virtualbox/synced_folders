@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/Akhil Sharma/OneDrive/Desktop/vagrant-java-webapp/vagrant/Automated_provisioning","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
